@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dotNetCoreConsole", "dotNetCoreConsole", "{09C09FCB-8E25-41EF-B17E-416AD41A0677}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "procu4UvsPrimavera", "procu4UvsPrimavera\procu4UvsPrimavera.csproj", "{CCA034C6-28B9-4347-A598-1E17E54CADB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCA034C6-28B9-4347-A598-1E17E54CADB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA034C6-28B9-4347-A598-1E17E54CADB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA034C6-28B9-4347-A598-1E17E54CADB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA034C6-28B9-4347-A598-1E17E54CADB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CCA034C6-28B9-4347-A598-1E17E54CADB9} = {09C09FCB-8E25-41EF-B17E-416AD41A0677}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5620D613-CD9F-48A3-B54D-5784DE065311}
+	EndGlobalSection
+EndGlobal
